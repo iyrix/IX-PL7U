@@ -1,0 +1,11 @@
+.App {
+  align-items: flex-start;
+  background-color: blueviolet;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  height: 100vh;
+  padding: 20px;
+  width: 100vw;
+}
+
